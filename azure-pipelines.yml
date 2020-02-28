@@ -12,7 +12,7 @@ variables:
   azureSubscription: '401d4c08-a249-4f14-9cf5-cd654ecfde94'
   
   # Web app name
-  webAppName: 'Azure Web App'
+  webAppName: 'capstoneproject'
 
   # Environment name
   environmentName: 'Java'
